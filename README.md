@@ -1,4 +1,4 @@
-# SolarSystemSimulator
+# SolarSystemSimulator(Course project 1 from MSU Intro to Game Design on coursera)
 A solar system simulator consist of sun mars earth etc
 
 How to start it
